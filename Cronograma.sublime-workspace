@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sessio",
+				"sessionName"
+			],
+			[
+				"pro",
+				"projectId"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"stream",
+				"stream_context_create"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"desc",
+				"descricao"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"con",
+				"consumir_api"
+			],
+			[
+				"wha",
+				"whatsappbot"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"urlen",
+				"urlencode"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"text",
+				"texto"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"te",
+				"texto"
+			],
+			[
+				"jso",
+				"json_str"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"co",
+				"codigo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"insta",
+				"Instância"
+			],
+			[
+				"da",
+				"dados"
+			],
+			[
+				"dad",
+				"dados_json"
+			],
+			[
+				"habi",
+				"habilidades_json"
+			],
+			[
+				"wh",
+				"whatsapp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Karlos Galdino/Documents/Node/myzap/index.js",
+		"/C/Users/Karlos Galdino/Documents/Node/myzap/sessions.js",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/Whatsappbot.php",
+		"/C/Users/Karlos Galdino/Documents/Node/Arquivos/sessions.js",
+		"/C/Users/Karlos Galdino/Documents/Node/Arquivos/index.js",
+		"/C/xampp/htdocs/app/gelamix/system/libraries/Session.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/Consultas.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/Whatsapp.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/Whatsappbot 2.php",
+		"/C/Users/Karlos Galdino/Downloads/Dialogflow/Fazer pedido.json",
+		"/C/xampp/htdocs/engequentinha/application/models/Comandos.php",
+		"/C/xampp/htdocs/dialog.php",
+		"/C/xampp/htdocs/bot/dialogflow.php",
+		"/C/xampp/htdocs/teste.html",
+		"/C/xampp/htdocs/application/models/Consultas.php",
+		"/C/Users/Karlos Galdino/Downloads/teste.js",
+		"/C/xampp/htdocs/bot.js",
+		"/C/xampp/htdocs/application/models/Whatsappbot.php",
+		"/C/xampp/htdocs/application/controllers/Whatsapp.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/autoload.php",
+		"/C/xampp/htdocs/application/config/autoload.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/common_lang.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/giftcards_lang.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/login.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/receipt.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/module_lang.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/database.php.tmpl",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/database.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/config.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/database 2.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/constants.php",
+		"/C/xampp/htdocs/app/gelamix/application/config/database.php.tmpl",
+		"/C/xampp/htdocs/app/gelamix/application/config/database.php",
+		"/C/xampp/htdocs/app/gelamix/application/config/config.php",
+		"/C/xampp/htdocs/vendor/autoload.php",
+		"/C/xampp/htdocs/application/config/config.php",
+		"/C/xampp/htdocs/application/views/whatsapp_conect.php",
+		"/C/xampp/htdocs/vendor/chillerlan/php-qrcode/examples/text.php",
+		"/C/xampp/htdocs/vendor/chillerlan/php-qrcode/examples/custom_output.php",
+		"/C/xampp/htdocs/vendor/chillerlan/php-qrcode/examples/html.php",
+		"/C/xampp/htdocs/application/views/home.php",
+		"/C/xampp/htdocs/composer.json",
+		"/C/Users/Karlos Galdino/Downloads/chatbot-bjqupc-d147455d2922.json",
+		"/C/Users/Karlos Galdino/Downloads/null__logs__2020-06-03T12-27.json",
+		"/C/Users/Karlos Galdino/Downloads/funcao (2).js",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/home.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/error_404.php",
+		"/C/Users/Karlos Galdino/AppData/Local/Temp/fz3temp-2/dejad-topo.php",
+		"/C/xampp/htdocs/application/config/database.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Cronograma.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"getSessi",
+				"app\\gelamix\\system\\libraries\\Session.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
